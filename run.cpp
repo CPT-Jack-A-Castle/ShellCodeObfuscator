@@ -3,7 +3,7 @@
 #include <string>
 #include <algorithm>
 #include <sstream>
-#include  <iomanip>
+#include <iomanip>
 
 
 using namespace std;
